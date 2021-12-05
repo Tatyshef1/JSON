@@ -1,13 +1,12 @@
 {
-    "ID": "Metro17",
-    "Заглавие": "Некорректные параметры максимального масштаба схемы метро",
-    "Описание": "Можно приближать схему до нечитаемого состояния",
-    "Шаги воспроизведения": {
-        "1": "Открыть схему метро https://qa-metro.stand-2.praktikum-services.ru/",
-        "2": "Кликнуть на значок + более 6 раз"},
-        "ФР": "Схема увеличилась до нечитаемого состояния",
-        "ОР": "Через 3-6 кликов схема перестаёт увеличиваться",
-        "Приоритет": "Средний",
-        "Окружение": ["Windows 8", "браузер Google Chrome", "77.0.3865.90"]
-        
+"ID": "Metro17",
+"Title": "Incorrect parameters, maximum-scale subway layout",
+"Description": "you Can bring the scheme to an unreadable state",
+"Steps_to_reproduse": ["Open metro map https://qa-metro.stand-2.praktikum-services.ru/",
+"Click on the + icon 6"],
+"Actual_result": "The scheme has increased to an unreadable state",
+"Expected_result": "After 3-6 clicks, the scheme stops increasing",
+"Priority": "Average",
+"Environment": ["Windows 8", "Google Chrome browser", "77.0.3865.90"]
+
 }
