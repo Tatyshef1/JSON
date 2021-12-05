@@ -1,26 +1,19 @@
-<xml>
-
-<skill_1>Mobile testing</skill_1>
-<skill_2>Feature of iOS, Android, guidelines</skill_2>
-<skill_3>Building iOS apps on XCode</skill_3>
-<skill_4>Building Android apps on Android Studio</skill_4>
-<skill_5>Interception of mobile traffic (sniffing) via Charles</skill_5>
-<skill_6>Proxy settings on iOS and Android</skill_6>
-<skill_7>Linux Ubuntu Command line (terminal)</skill_7>
-<skill_8> Simple bash scripting, automation of routine tasks on the server</skill_8>
-<skill_9>Access to remote servers</skill_9>
-<skill_10>SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join</skill_10>
-<skill_11>Git</skill_11>
-<skill_12>Jmeter</skill_12>
-<skill_13>Scrum Development methodology</skill_13>
-<skill_14>Python.Creating your own client-server application</skill_14>
-<skill_15>VPN</skill_15>
-<skill_16>DevTools</skill_16>
-<skill_17>API testing</skill_17>
-<skill_18>Removing logs</skill_18>
-<skill_19>Postman and Fiddler</skill_19>
-<skill_20>What is JSON, XML</skill_20>
-<skill_21>Structure of requests and responses</skill_21>
-<skill_23>Client-server architecture</skill_23>
-
-</xml>
+{
+"skill": "Python",
+"skill": "the Scrum software development methodology",
+"skill": "Jmeter",
+"skill": "Git",
+"skill": "SQL",
+"skill": "access to remote servers",
+"skill": "simple bash scripting",
+"skill": "command line terminal linux Ubuntu",
+"skill": "the proxy settings on IOS and Android",
+"skill": "Charles",
+"skill": "build Android application in Android Studio"
+"skill": "mobile testing",
+"skill": "DevTools web browsers",
+"skill": "VPN",
+"skill": "the Fiddler",
+"skill": "removing and reading logs",
+"skill": "API testing"
+}
